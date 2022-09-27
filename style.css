@@ -1,0 +1,29 @@
+#principal{
+    font-family: 'Poppins', sans-serif;
+    border: solid 1px black;
+    width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+#mi-foto{
+    margin: 5px;
+    border: solid 4px black;
+}
+
+fieldset{
+    margin-bottom: 10px;
+}
+
+legend{
+    border: solid 1px green;
+    padding: 5px;
+    font-weight: bold;
+    border-radius: 20px;
+    background: lightgreen;
+    font-family: 'Raleway', sans-serif;
+}
+
+body{
+    background-color: rgb(113, 226, 230);
+}
